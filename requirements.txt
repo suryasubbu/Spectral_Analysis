@@ -1,0 +1,4 @@
+librosa
+gradio
+gradio_imageslider
+opencv-python
